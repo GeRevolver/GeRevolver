@@ -10,14 +10,13 @@ AI Implementation Lead — at a funded LatAm or US startup.
 
 ### Featured work
 
-- **[geraerodriguez.com](https://github.com/GeRevolver/gerardo-espinosa-founder-operator)** —
-  my site and a portfolio of six interactive demos, each modeling a real
-  operational problem (unit economics, outbound at scale, surgical scheduling,
-  automated reporting, a vertical ERP, document ingestion).
-  [Live site →](https://geraerodriguez.com)
-- **[Outbound Batch Drafter](https://github.com/GeRevolver/outbound-batch-drafter)** —
-  AI-assisted batch outreach: 25 personalized messages generated in seconds, each
-  reviewed by a human before it ships.
+**[geraerodriguez.com](https://github.com/GeRevolver/gerardo-espinosa-founder-operator)**
+— personal site and demo portfolio. Six interactive demos built around real
+operational problems: unit economics for a dental lab, outbound at scale, surgical
+scheduling, auto-generated ops reports, a service ERP, and a document normalizer.
+Each demo closes with an honest gap analysis of what a real production implementation
+would still need.
+[Live site →](https://geraerodriguez.com)
 
 ### What I work with
 
